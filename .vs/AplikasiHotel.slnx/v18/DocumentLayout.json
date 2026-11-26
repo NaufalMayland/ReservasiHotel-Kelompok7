@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tugas kampus\\AplikasiHotel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|d:\\tugas kampus\\aplikasihotel\\aplikasihotel\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|solutionrelative:aplikasihotel\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|d:\\tugas kampus\\aplikasihotel\\aplikasihotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|solutionrelative:aplikasihotel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|d:\\tugas kampus\\aplikasihotel\\aplikasihotel\\pelangganform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|solutionrelative:aplikasihotel\\pelangganform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|d:\\tugas kampus\\aplikasihotel\\aplikasihotel\\pelangganform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|solutionrelative:aplikasihotel\\pelangganform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|d:\\tugas kampus\\aplikasihotel\\aplikasihotel\\pelangganform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|solutionrelative:aplikasihotel\\pelangganform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|d:\\tugas kampus\\aplikasihotel\\aplikasihotel\\databookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|solutionrelative:aplikasihotel\\databookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|d:\\tugas kampus\\aplikasihotel\\aplikasihotel\\databookingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|solutionrelative:aplikasihotel\\databookingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|d:\\tugas kampus\\aplikasihotel\\aplikasihotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|solutionrelative:aplikasihotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|d:\\tugas kampus\\aplikasihotel\\aplikasihotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|solutionrelative:aplikasihotel\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|d:\\tugas kampus\\aplikasihotel\\aplikasihotel\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|solutionrelative:aplikasihotel\\bookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|d:\\tugas kampus\\aplikasihotel\\aplikasihotel\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|solutionrelative:aplikasihotel\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|d:\\tugas kampus\\aplikasihotel\\aplikasihotel\\databookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{37320CC3-D8E8-4ED5-B7FD-96367B2B827E}|AplikasiHotel\\AplikasiHotel.csproj|solutionrelative:aplikasihotel\\databookingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PelangganForm.cs",
+              "DocumentMoniker": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\PelangganForm.cs",
+              "RelativeDocumentMoniker": "AplikasiHotel\\PelangganForm.cs",
+              "ToolTip": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\PelangganForm.cs",
+              "RelativeToolTip": "AplikasiHotel\\PelangganForm.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEoAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T15:39:23.248Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PelangganForm.Designer.cs",
+              "DocumentMoniker": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\PelangganForm.Designer.cs",
+              "RelativeDocumentMoniker": "AplikasiHotel\\PelangganForm.Designer.cs",
+              "ToolTip": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\PelangganForm.Designer.cs",
+              "RelativeToolTip": "AplikasiHotel\\PelangganForm.Designer.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAIwI0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T15:38:09.678Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PelangganForm.cs [Design]",
+              "DocumentMoniker": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\PelangganForm.cs",
+              "RelativeDocumentMoniker": "AplikasiHotel\\PelangganForm.cs",
+              "ToolTip": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\PelangganForm.cs [Design]",
+              "RelativeToolTip": "AplikasiHotel\\PelangganForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T15:37:55.072Z",
+              "EditorCaption": " [Design]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\Form1.cs",
+              "RelativeDocumentMoniker": "AplikasiHotel\\Form1.cs",
+              "ToolTip": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\Form1.cs [Design]",
+              "RelativeToolTip": "AplikasiHotel\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T11:19:54.717Z",
+              "EditorCaption": " [Design]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\Form1.cs",
+              "RelativeDocumentMoniker": "AplikasiHotel\\Form1.cs",
+              "ToolTip": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\Form1.cs",
+              "RelativeToolTip": "AplikasiHotel\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T11:26:45.097Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataBookingForm.Designer.cs",
+              "DocumentMoniker": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\DataBookingForm.Designer.cs",
+              "RelativeDocumentMoniker": "AplikasiHotel\\DataBookingForm.Designer.cs",
+              "ToolTip": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\DataBookingForm.Designer.cs",
+              "RelativeToolTip": "AplikasiHotel\\DataBookingForm.Designer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAmwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T13:38:09.092Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataBookingForm.cs",
+              "DocumentMoniker": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\DataBookingForm.cs",
+              "RelativeDocumentMoniker": "AplikasiHotel\\DataBookingForm.cs",
+              "ToolTip": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\DataBookingForm.cs",
+              "RelativeToolTip": "AplikasiHotel\\DataBookingForm.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAmwEkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T13:31:04.209Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataBookingForm.cs [Design]",
+              "DocumentMoniker": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\DataBookingForm.cs",
+              "RelativeDocumentMoniker": "AplikasiHotel\\DataBookingForm.cs",
+              "ToolTip": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\DataBookingForm.cs [Design]",
+              "RelativeToolTip": "AplikasiHotel\\DataBookingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T13:30:59.862Z",
+              "EditorCaption": " [Design]",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AplikasiHotel\\Form1.Designer.cs",
+              "ToolTip": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\Form1.Designer.cs",
+              "RelativeToolTip": "AplikasiHotel\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T13:49:33.336Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingForm.cs",
+              "DocumentMoniker": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\BookingForm.cs",
+              "RelativeDocumentMoniker": "AplikasiHotel\\BookingForm.cs",
+              "ToolTip": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\BookingForm.cs",
+              "RelativeToolTip": "AplikasiHotel\\BookingForm.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAmwJYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T12:46:53.216Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\Program.cs",
+              "RelativeDocumentMoniker": "AplikasiHotel\\Program.cs",
+              "ToolTip": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\Program.cs",
+              "RelativeToolTip": "AplikasiHotel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T13:37:15.585Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingForm.cs [Design]",
+              "DocumentMoniker": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\BookingForm.cs",
+              "RelativeDocumentMoniker": "AplikasiHotel\\BookingForm.cs",
+              "ToolTip": "D:\\Tugas kampus\\AplikasiHotel\\AplikasiHotel\\BookingForm.cs [Design]",
+              "RelativeToolTip": "AplikasiHotel\\BookingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T12:44:53.617Z",
+              "EditorCaption": " [Design]",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

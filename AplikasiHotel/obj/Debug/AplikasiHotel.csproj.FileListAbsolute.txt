@@ -1,0 +1,12 @@
+D:\Tugas kampus\AplikasiHotel\AplikasiHotel\obj\Debug\AplikasiHotel.csproj.AssemblyReference.cache
+D:\Tugas kampus\AplikasiHotel\AplikasiHotel\obj\Debug\AplikasiHotel.Form1.resources
+D:\Tugas kampus\AplikasiHotel\AplikasiHotel\obj\Debug\AplikasiHotel.Properties.Resources.resources
+D:\Tugas kampus\AplikasiHotel\AplikasiHotel\obj\Debug\AplikasiHotel.csproj.GenerateResource.cache
+D:\Tugas kampus\AplikasiHotel\AplikasiHotel\obj\Debug\AplikasiHotel.csproj.CoreCompileInputs.cache
+D:\Tugas kampus\AplikasiHotel\AplikasiHotel\obj\Debug\AplikasiHotel.BookingForm.resources
+D:\Tugas kampus\AplikasiHotel\AplikasiHotel\bin\Debug\AplikasiHotel.exe.config
+D:\Tugas kampus\AplikasiHotel\AplikasiHotel\bin\Debug\AplikasiHotel.exe
+D:\Tugas kampus\AplikasiHotel\AplikasiHotel\bin\Debug\AplikasiHotel.pdb
+D:\Tugas kampus\AplikasiHotel\AplikasiHotel\obj\Debug\AplikasiHotel.exe
+D:\Tugas kampus\AplikasiHotel\AplikasiHotel\obj\Debug\AplikasiHotel.pdb
+D:\Tugas kampus\AplikasiHotel\AplikasiHotel\obj\Debug\AplikasiHotel.DataBookingForm.resources
