@@ -77,5 +77,10 @@ namespace AplikasiHotel
             formTabel.Show();
             this.Hide();
         }
+
+        private void txtNamaLengkap_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
